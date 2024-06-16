@@ -1,0 +1,1 @@
+cmd_/home/omkar/Desktop/repositery/ELDD/Assignment/Assignment2/pchar.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/omkar/Desktop/repositery/ELDD/Assignment/Assignment2/pchar.ko /home/omkar/Desktop/repositery/ELDD/Assignment/Assignment2/pchar.o /home/omkar/Desktop/repositery/ELDD/Assignment/Assignment2/pchar.mod.o;  true

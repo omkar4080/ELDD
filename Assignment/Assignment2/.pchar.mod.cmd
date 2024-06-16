@@ -1,0 +1,1 @@
+cmd_/home/omkar/Desktop/repositery/ELDD/Assignment/Assignment2/pchar.mod := printf '%s\n'   pchar.o | awk '!x[$$0]++ { print("/home/omkar/Desktop/repositery/ELDD/Assignment/Assignment2/"$$0) }' > /home/omkar/Desktop/repositery/ELDD/Assignment/Assignment2/pchar.mod
