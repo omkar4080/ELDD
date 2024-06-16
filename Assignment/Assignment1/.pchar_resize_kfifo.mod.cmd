@@ -1,0 +1,1 @@
+cmd_/home/omkar/Desktop/devicedriverPrac/Assignment/Assignment1/pchar_resize_kfifo.mod := printf '%s\n'   pchar_resize_kfifo.o | awk '!x[$$0]++ { print("/home/omkar/Desktop/devicedriverPrac/Assignment/Assignment1/"$$0) }' > /home/omkar/Desktop/devicedriverPrac/Assignment/Assignment1/pchar_resize_kfifo.mod

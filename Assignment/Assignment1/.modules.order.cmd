@@ -1,0 +1,1 @@
+cmd_/home/omkar/Desktop/devicedriverPrac/Assignment/Assignment1/modules.order := {   echo /home/omkar/Desktop/devicedriverPrac/Assignment/Assignment1/pchar_resize_kfifo.ko; :; } > /home/omkar/Desktop/devicedriverPrac/Assignment/Assignment1/modules.order
