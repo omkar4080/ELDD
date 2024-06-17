@@ -1,0 +1,1 @@
+cmd_/home/omkar/Desktop/repositery/ELDD/Assignment/Assignment3/Module.symvers :=  sed 's/ko$$/o/'  /home/omkar/Desktop/repositery/ELDD/Assignment/Assignment3/modules.order | scripts/mod/modpost -m -a    -o /home/omkar/Desktop/repositery/ELDD/Assignment/Assignment3/Module.symvers -e -i Module.symvers -T - 
