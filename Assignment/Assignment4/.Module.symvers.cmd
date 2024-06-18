@@ -1,0 +1,1 @@
+cmd_/home/omkar/Desktop/devicedriverPrac/Assignment/assig/Module.symvers :=  sed 's/ko$$/o/'  /home/omkar/Desktop/devicedriverPrac/Assignment/assig/modules.order | scripts/mod/modpost -m -a    -o /home/omkar/Desktop/devicedriverPrac/Assignment/assig/Module.symvers -e -i Module.symvers -T - 

@@ -1,0 +1,1 @@
+cmd_/home/omkar/Desktop/devicedriverPrac/Assignment/assig/key.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/omkar/Desktop/devicedriverPrac/Assignment/assig/key.ko /home/omkar/Desktop/devicedriverPrac/Assignment/assig/key.o /home/omkar/Desktop/devicedriverPrac/Assignment/assig/key.mod.o;  true
